@@ -17,22 +17,6 @@
 ### 🗺 Full Level Overview
 ![Game Level Overview](https://github.com/Chandan-Baskey/DevRocket/blob/c8781c68afe501015fad1b2ff7b2c0a1a9772753/GameLevel.png?raw=true)
 
-### 🎮 In-Game Views
-
-<p align="center">
-  <img src="Screenshots/gameplay-desert.png" width="48%" alt="Egyptian Desert Level — Gameplay"/>
-  &nbsp;
-  <img src="Screenshots/editor-egyptian-cave.png" width="48%" alt="Egyptian Underground — Editor View"/>
-</p>
-
-<p align="center">
-  <img src="Screenshots/editor-scifi-lab.png" width="48%" alt="Sci-Fi Lab — Editor View"/>
-  &nbsp;
-  <img src="Screenshots/gameplay-pixel-forest.png" width="48%" alt="Pixel Forest Level"/>
-</p>
-
-> 📌 **To add screenshots:** Create a `Screenshots/` folder in your repo root, place your PNG images there, commit and push. GitHub will render them automatically in this README.
-
 ---
 
 ## 📖 Table of Contents
