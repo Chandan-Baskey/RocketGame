@@ -1,4 +1,4 @@
-# 🚀 DevRocket
+# 🚀 Rocket Game
 
 > A 3D physics-based rocket navigation game built with Unity — thrust your rocket through hazardous obstacle courses across multiple themed worlds, from ancient Egyptian desert ruins to futuristic sci-fi underground labs!
 
